@@ -1,4 +1,4 @@
-module github.com/andriz/zabbix/std
+module github.com/andrisz/zabbix/std
 
 go 1.17
 
